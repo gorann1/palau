@@ -62,6 +62,6 @@ group :test do
   gem "simplecov", require: false, group: :test
 end
 
-gem "inertia_rails", "~> 3.8"
+gem "inertia_rails", "~> 3.9"
 
 gem "vite_rails", "~> 3.0"
